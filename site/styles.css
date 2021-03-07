@@ -1,0 +1,96 @@
+body{background-image: url('https://kartinkinaden.ru/uploads/posts/2021-01/thumbs/1610494904_1-p-odnotonnii-svetlo-goluboi-fon-1.jpg');}
+.glop{
+  border: 2px solid snow; height: 365px; width: 280px; background-image: url('https://sun9-11.userapi.com/impg/BHuP4W3WMdVQlgws_vxilzM6Wl2e-e6KA5stfw/kJsVe-Rgj-c.jpg?size=1200x1600&quality=96&sign=17ea22426d18ba69b469ec1ae686c5cc&type=album');
+  border-radius: 15px;
+}
+.mgg{
+  border-radius: 15px;
+}
+.arr{ border: 2px solid snow; height: 400px; width: 700px;
+  float: top;
+  margin-left: 350px;
+  position: absolute;
+  top: 10px;
+border-radius: 15px;
+background-color: white;
+padding:10px;
+font-size: 25px;
+}
+.imdf{
+  float: top;
+  margin-left: 1150px;
+  position: absolute;
+  top:10px;
+ border-radius: 15px;
+}
+.sidee{
+  border: 2px solid snow; height: 500px; width: 250px;
+    float: top;
+    margin-left: 1190px;
+    margin-top: 150px;
+    position: absolute;
+    top: 10px;
+  border-radius: 15px;
+  background-color: white;
+  padding-left: 20px;
+  font-size: 30px;
+  }
+.ops{
+font-size: 25px;
+}
+.otp1{
+  border: 3px outset black;
+height: 100px;
+width: 200px;
+border-radius: 5px;
+background-color: blue;
+color:snow;
+}
+.ssid{
+  border: 2px solid snow; height: 600px; width: 270px;
+  padding: 5px;
+    float: top;
+    margin-top: 400px;
+    position: absolute;
+    top: 10px;
+  border-radius: 15px;
+  background-color: white;
+  padding-left: 20px;
+  font-size: 30px;
+}
+.jo{
+  font-size: 20px;
+}
+.ssss{
+  font-size: 30px;
+}
+.bob{
+  border: 2px solid black; height: 400px; width: 700px;
+    float: bottom;
+    margin-left: 350px;
+    position: absolute;
+    bottom: -150px;
+  border-radius: 15px;
+  background-color: white;
+padding-top: 20px;
+font-size: 15px;
+}
+.otp2{
+  border: 3px outset black;
+height: 50px;
+width: 100px;
+border-radius: 5px;
+background-color: blue;
+color:snow;
+    float: bottom;
+    margin-left: 1050px;
+    position: absolute;
+    bottom: -250px;
+}
+
+
+
+
+
+
+}
